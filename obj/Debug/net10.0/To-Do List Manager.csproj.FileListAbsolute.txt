@@ -1,0 +1,14 @@
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\bin\Debug\net10.0\To-Do List Manager.exe
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\bin\Debug\net10.0\To-Do List Manager.deps.json
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\bin\Debug\net10.0\To-Do List Manager.runtimeconfig.json
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\bin\Debug\net10.0\To-Do List Manager.dll
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\bin\Debug\net10.0\To-Do List Manager.pdb
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\obj\Debug\net10.0\To-Do List Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\obj\Debug\net10.0\To-Do List Manager.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\obj\Debug\net10.0\To-Do List Manager.AssemblyInfo.cs
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\obj\Debug\net10.0\To-Do List Manager.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\obj\Debug\net10.0\To-Do List Manager.dll
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\obj\Debug\net10.0\refint\To-Do List Manager.dll
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\obj\Debug\net10.0\To-Do List Manager.pdb
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\obj\Debug\net10.0\To-Do List Manager.genruntimeconfig.cache
+C:\Users\Nick\source\repos\To-Do List Manager\To-Do List Manager\obj\Debug\net10.0\ref\To-Do List Manager.dll
